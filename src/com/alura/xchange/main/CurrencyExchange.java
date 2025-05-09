@@ -35,7 +35,6 @@ public class CurrencyExchange {
 
                 Gson gson = new GsonBuilder().setPrettyPrinting().create();
                 Conversion conversion = gson.fromJson(response.body(), Conversion.class);
-                System.out.println(conversion);
 
                 File file = new File("conversions.json");
 
@@ -57,7 +56,9 @@ public class CurrencyExchange {
                     e.printStackTrace();
                 }
 
-                System.out.println(amount + " " + base + " = " + conversion.conversion_result() + " " + target );
+                System.out.println(base.toUpperCase() + " =>> " + target.toUpperCase());
+                System.out.println("Tipo de cambio: " + conversion.conversion_rate());
+                System.out.println(base.toUpperCase() + " " + amount + " = " + target.toUpperCase() + " " + conversion.conversion_result());
                 return conversion;
             }
         } catch (IOException e) {
@@ -67,4 +68,21 @@ public class CurrencyExchange {
         }
     }
 
+    public void mostrarMenu(){
+        System.out.println("""
+                ****************************************************************
+                Sea bienvenido/a a XChange tu Conversor de Monedas
+                Elije la accion que deseas realizar:
+                
+                1) Dolar =>> Colon Costarricense
+                2) Colon Costarricense =>> Dolar
+                3) Dolar =>> Peso Mexicano
+                4) Peso Mexicano =>> Dolar
+                5) Dolar =>> Euro
+                6) Euro =>> Dolar
+                7) Salir
+                 
+                ****************************************************************
+                """);
+    }
 }

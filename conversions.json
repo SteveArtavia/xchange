@@ -6,5 +6,125 @@
     "target_code": "CRC",
     "conversion_rate": 507.8968,
     "conversion_result": 2148403.464
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Thu, 08 May 2025 00:00:02 +0000",
+    "base_code": "USD",
+    "target_code": "CRC",
+    "conversion_rate": 506.502,
+    "conversion_result": 506502.0
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Thu, 08 May 2025 00:00:02 +0000",
+    "base_code": "USD",
+    "target_code": "CRC",
+    "conversion_rate": 506.502,
+    "conversion_result": 2309649.12
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Thu, 08 May 2025 00:00:02 +0000",
+    "base_code": "USD",
+    "target_code": "CRC",
+    "conversion_rate": 506.502,
+    "conversion_result": 1747431.9
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Thu, 08 May 2025 00:00:02 +0000",
+    "base_code": "USD",
+    "target_code": "CRC",
+    "conversion_rate": 506.502,
+    "conversion_result": 162080.64
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Thu, 08 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001974,
+    "conversion_result": 6.824118
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Thu, 08 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001974,
+    "conversion_result": 0.900144
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 8.874
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 1.118124
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 0.015776
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 0.015776
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 0.461448
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 0.68034
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "CRC",
+    "target_code": "USD",
+    "conversion_rate": 0.001972,
+    "conversion_result": 0.461448
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "USD",
+    "target_code": "MXN",
+    "conversion_rate": 19.5428,
+    "conversion_result": 110964.0184
+  },
+  {
+    "result": "success",
+    "time_last_update_utc": "Fri, 09 May 2025 00:00:02 +0000",
+    "base_code": "MXN",
+    "target_code": "USD",
+    "conversion_rate": 0.05117,
+    "conversion_result": 51.17
   }
 ]
